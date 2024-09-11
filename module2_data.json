@@ -1,0 +1,18 @@
+[
+    { "name": "Helga Noname", "age": 22, "major": "English Literature" },
+    { "name": "Michael Knight", "age": 31, "major": "Philosophy" },
+    { "name": "Wiz Khalifa", "age": 38, "major": "Horticulture"},
+    { "name": "Bronson Hank", "age": 29, "major": "Pre-Law"},
+    { "name": "Cleo Hushmoney", "age": 24, "major": "Undecided"},
+    { "name": "Emily Singer", "age": 19, "major": "Music"},
+    { "name": "Tristan Walker", "age": 33, "major": "Engineering"},
+    { "name": "Donald Draper", "age": 28, "major": "International Business"},
+    { "name": "Frances Howell", "age": 75, "major": "Astronomy"},
+    { "name": "Colton Bridge", "age": 21, "major": "Computer Science"},
+    { "name": "Hannah Moore", "age": 19, "major": "Psychology"},
+    { "name": "Brittney Olson", "age": 27, "major": "Pre-Med"},
+    { "name": "Lucas Grainge", "age": 58, "major": "Business"},
+    { "name": "Sage Gordon", "age": 25, "major": "Marketing"},
+    { "name": "Meadow Soprano", "age": 38, "major": "Criminology"}
+
+]
