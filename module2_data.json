@@ -1,18 +1,18 @@
 [
-    { "name": "Helga Noname", "age": 22, "major": "English Literature" },
-    { "name": "Michael Knight", "age": 31, "major": "Philosophy" },
-    { "name": "Wiz Khalifa", "age": 38, "major": "Horticulture"},
-    { "name": "Bronson Hank", "age": 29, "major": "Pre-Law"},
-    { "name": "Cleo Hushmoney", "age": 24, "major": "Undecided"},
-    { "name": "Emily Singer", "age": 19, "major": "Music"},
-    { "name": "Tristan Walker", "age": 33, "major": "Engineering"},
-    { "name": "Donald Draper", "age": 28, "major": "International Business"},
-    { "name": "Frances Howell", "age": 75, "major": "Astronomy"},
-    { "name": "Colton Bridge", "age": 21, "major": "Computer Science"},
-    { "name": "Hannah Moore", "age": 19, "major": "Psychology"},
-    { "name": "Brittney Olson", "age": 27, "major": "Pre-Med"},
-    { "name": "Lucas Grainge", "age": 58, "major": "Business"},
-    { "name": "Sage Gordon", "age": 25, "major": "Marketing"},
-    { "name": "Meadow Soprano", "age": 38, "major": "Criminology"}
+    { "name": "Helga Noname", "age": 22, "major": "English Literature", "city": "Phoenix", "enrollment year": 2019 },
+    { "name": "Michael Knight", "age": 31, "major": "Philosophy", "city": "Las Vegas", "enrollment year": 2015 },
+    { "name": "Wiz Khalifa", "age": 38, "major": "Horticulture", "city": "New York", "enrollment year": 2013 },
+    { "name": "Bronson Hank", "age": 29, "major": "Pre-Law", "city": "Pittsburgh", "enrollment year": 2020 },
+    { "name": "Cleo Hushmoney", "age": 24, "major": "Undecided", "city": "Harrisburg", "enrollment year": 2019},
+    { "name": "Emily Singer", "age": 19, "major": "Music", "city":"New York", "enrollment year": 2022 },
+    { "name": "Tristan Walker", "age": 33, "major": "Engineering", "city": "Washington D.C.", "enrollment year": 2010 },
+    { "name": "Donald Draper", "age": 28, "major": "International Business", "city": "Seattle", "enrollment year": 2014 },
+    { "name": "Frances Howell", "age": 75, "major": "Astronomy", "city": "Cleveland", "enrollment year": 2014},
+    { "name": "Colton Bridge", "age": 21, "major": "Computer Science", "city": "Pittsburgh", "enrollment year": 2022 },
+    { "name": "Hannah Moore", "age": 19, "major": "Psychology", "city": "New York", "enrollment year": 2023 },
+    { "name": "Brittney Olson", "age": 27, "major": "Pre-Med", "city": "Cleveland", "enrollment year": 2015 },
+    { "name": "Lucas Grainge", "age": 58, "major": "Business", "city": "Los Angeles", "enrollment year": 1997 },
+    { "name": "Sage Gordon", "age": 25, "major": "Marketing", "city": "Miami", "enrollment year": 2018 },
+    { "name": "Meadow Soprano", "age": 38, "major": "Criminology", "city": "Miami", "enrollment year": 2009 }
 
 ]
